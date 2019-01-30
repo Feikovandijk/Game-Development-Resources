@@ -1,27 +1,13 @@
-## Welcome to GitHub Pages
+## Books
+[Drive folder](https://drive.google.com/drive/u/1/folders/1CqbVuZB3OGq-sqFiH8uoXj949gIIrdnK)
+[Mirror](https://1fichier.com/dir/nFQMr6s8)
 
-You can use the [editor on GitHub](https://github.com/Feikovandijk/GameDevelopment-resources/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Video Courses
+[Drive folder](https://drive.google.com/drive/u/1/folders/14Pdm7m6_daKxmRoYRa_h3IGjAPTkF_Vj)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Suggestions
+[Suggestion form](https://docs.google.com/forms/d/e/1FAIpQLSd45hl2djU3ynfreq7sT7cLpnc04cAvYkg391kY_vn8c9jPoA/viewform)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
